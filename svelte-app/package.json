@@ -6,6 +6,11 @@
     "dev": "rollup -c -w",
     "start": "sirv public --cors --single"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webcane/azure-static-web-app.git"
+  },
+  "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^11.1.0",
     "@rollup/plugin-node-resolve": "^7.1.3",
